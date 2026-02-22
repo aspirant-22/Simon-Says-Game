@@ -1,3 +1,4 @@
+//Simon Says Game - Using JS
 let userSeq = [];
 let gameSeq = [];
 // let scores = [];
