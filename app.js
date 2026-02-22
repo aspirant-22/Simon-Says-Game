@@ -1,4 +1,5 @@
-//Simon Says Game - Using JS
+//Simon Says Game - JS Mini Project
+
 let userSeq = [];
 let gameSeq = [];
 // let scores = [];
